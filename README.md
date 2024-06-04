@@ -5,9 +5,9 @@ This repository includes contents for Menu Recommendation & Consensus project
 
 ## Members
 
-* **Sungyong Park (20221051)** : Menu Recommendation
-* **Seokwoo Jang (20221169)** : Menu Consensus
-* **Eden Kim (20232029)** : Visualization
+* **Sungyong Park** : Menu Recommendation
+* **Seokwoo Jang** : Menu Consensus
+* **Eden Kim** : Visualization
 
 ## Directory Structure
 
