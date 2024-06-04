@@ -17,9 +17,6 @@ Directory structure of the repository explained below.
 /
     /docs/
     /final/
-    /20221051_Sungyong_Park/
-    /20221169_Seokwoo_Jang/
-    /20232029_Eden_Kim/
     /Dockerfile
     /README.md
     /Usage.md
