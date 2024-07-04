@@ -197,6 +197,7 @@ def data_generation():
     
     data = pd.concat([data1,data2,data3,data4,data5,data6,data7,data8,data9,data10,data11,data12])
     print(f"Data_size : {data.shape}")
+    print(f"Data_type : {type(data)}")
     return data
 
 def skf(data):
